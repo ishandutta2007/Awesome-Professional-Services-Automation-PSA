@@ -1,197 +1,122 @@
-# Awesome-Professional-Services-Automation-PSA
+# 💼 Professional Services Automation (PSA) Ecosystem 🚀
 
-## Top Professional Services Automation (PSA) Ecosystem
+[![Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Professional-Services-Automation-PSA)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Professional-Services-Automation-PSA/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Professional-Services-Automation-PSA?style=flat-square&logo=github" alt="Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Professional-Services-Automation-PSA/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Professional-Services-Automation-PSA?style=flat-square&logo=github" alt="Forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 📌 Executive Summary & Meta Description
+A **curated collection of top Professional Services Automation (PSA) platforms**, open-source PSA GitHub repositories, project accounting systems, resource management tools, and service delivery solutions. Designed specifically for consulting firms, IT managed service providers (MSPs), digital agencies, engineering firms, and enterprise service organizations seeking to optimize resource utilization, streamline time tracking, and maximize project profitability.
 
-*Focused on Project Accounting, Resource Management & Service Delivery*  
+---
 
-**Last updated: October 2026**
+## 📑 Table of Contents
+- [📊 Market Overview & Industry Dynamics](#-market-overview--industry-dynamics)
+- [🏢 SaaS & Cloud PSA Platforms](#-saas--cloud-psa-platforms)
+- [🚀 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Key Features of Modern PSA Software](#%EF%B8%8F-key-features-of-modern-psa-software)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 
+---
 
+## 📊 Market Overview & Industry Dynamics
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Professional Services Automation (PSA)**. These tools help consulting firms, agencies, IT service providers, and managed service providers (MSPs) manage projects, track time and expenses, allocate resources, and bill clients profitably.
+> 📈 **Market Size & Structure**: The global **Professional Services Automation (PSA)** software market was valued at **~$1.4 Billion to $1.6 Billion in 2024** and is projected to expand to **~$3.4 Billion by 2032** (growing at a compound annual growth rate of **~11.2%**). The sector is **moderately fragmented**, dominated by enterprise heavyweights (Microsoft, Oracle NetSuite, Adobe) for multi-billion dollar firms, alongside specialized SaaS platforms (Scoro, BigTime, Kantata) and high-growth open-source options (Odoo, ERPNext, Alga PSA).
 
+---
 
+## 🏢 SaaS & Cloud PSA Platforms
 
-**Examples** include Microsoft Dynamics 365 Project Operations, FinancialForce PSA, Kantata (Mavenlink), NetSuite OpenAir, BigTime, Planview, Projector by BigTime, Scoro, Accelo, and Workfront (the category leaders).
+*SaaS platforms organized in descending order by **Company Valuation / Market Cap / Revenue**.*
 
+| 🏢 Platform | 📝 Key Highlights & Description | 💰 Starting Price | 🎁 Free Tier / Trial Limit | 📊 Company Size / Valuation / Revenue |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Dynamics 365 Project Operations](https://dynamics.microsoft.com/en-us/project-operations/)** | Enterprise PSA connecting project sales, resourcing, delivery, and accounting with deep Microsoft 365 & Power Platform integration. | **$135** / user / month | **30-day free trial** (Requires M335 admin tenant) | **$3.1 Trillion** Market Cap (~$245B Revenue) |
+| **[NetSuite OpenAir (SuiteProjects Pro)](https://www.netsuite.com/portal/products/openair.shtml)** | Oracle NetSuite's flagship PSA suite featuring advanced revenue recognition, billing, and global resource management. | **$399** base / mo + **$49** / user / mo | **No self-serve trial** (30-day sandbox via guided demo) | **$420 Billion** Market Cap (~$53B Revenue) |
+| **[Workfront](https://www.workfront.com/)** | Adobe's enterprise work and portfolio management platform offering capacity planning, automated proofing, and project tracking. | **$30** / user / month *(Select Tier estimate)* | **No public trial** (30-day sales-assisted Test Drive) | **$220 Billion** Market Cap (~$19.4B Revenue) |
+| **[Planview](https://www.planview.com/)** | Enterprise strategic portfolio and resource management suite tailored for multi-team work and capacity planning. | **$19** / user / month *(AgilePlace Tier)* | **30-day free trial** (ProjectPlace / AgilePlace, no credit card) | **$1.6 Billion** Valuation (~$400M Revenue) |
+| **[BigTime](https://www.bigtime.net/)** | Time tracking, project accounting, and invoicing platform built for mid-sized consultancies and engineering firms. | **$10** / user / month *(Essentials Plan)* | **14-day free trial** (Full feature access with sample data) | **$350 Million** Valuation (~$50M ARR) |
+| **[FinancialForce PSA (Certinia)](https://www.financialforce.com/)** | Built natively on the Salesforce platform, delivering end-to-end visibility from CRM opportunity to project revenue recognition. | **$45** / user / month *(AppExchange base tier)* | **No public trial** (Salesforce Org demo environment) | **~$200 Million** Revenue (PE-Backed) |
+| **[Kantata (Mavenlink)](https://www.kantata.com/)** | Purpose-built PSA for professional services combining project management, resource allocation, and real-time operational analytics. | **$45** / user / month *(Base tier estimate)* | **No self-serve trial** (Guided 14-day demo upon request) | **~$150 Million** Revenue (PE-Backed) |
+| **[Scoro](https://www.scoro.com/)** | All-in-one business management for agencies & consultancies combining project management, CRM, retainer billing, and time tracking. | **$17** / user / month *(Core combo, 5-user min)* | **14-day free trial** (No credit card required) | **$100 Million+** Valuation (~$20M ARR) |
+| **[Accelo](https://www.accelo.com/)** | Service Operations Automation platform unifying client CRM, retainer management, project delivery, and automated billing. | **$20** / user / month *(Plus plan, 3-user min)* | **7-day free trial** (No credit card required) | **~$15 Million** ARR (Growth Equity) |
 
+---
 
-**Open-source emphasis**: The open-source PSA ecosystem is anchored by **Alga PSA** (modern MSP-focused platform built on Next.js/TypeScript) and **Project-Open** (mature enterprise PSA/ERP used by translation and IT firms) . **MovaLab** brings a modern Next.js/Supabase approach with client portal , while **allocPSA** and **LedgerSMB** provide veteran alternatives for services organizations . **Dolibarr** offers project management within a broader ERP suite .
+## 🚀 Open-Source GitHub Projects
 
+*Open-source GitHub repositories organized in descending order by **GitHub Star Count**.*
 
+| 🛠️ Project Name | ⭐ Stars Badge *(Click to view Stargazers)* | 📖 Overview & Ecosystem Strengths | ⚖️ License |
+| :--- | :---: | :--- | :---: |
+| **[Odoo](https://github.com/Dolibarr/dolibarr)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers) | Comprehensive open-source ERP & PSA suite featuring integrated timesheets, project billing, helpdesk, and customer contracts. | LGPL-3.0 |
+| **[ERPNext](https://github.com/frappe/erpnext)** | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers) | Modern Python/Frappe framework open-source ERP with dedicated Project Management, Resource Allocation, and Time Tracking. | GPL-3.0 |
+| **[Leantime](https://github.com/leantime/leantime)** | [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social)](https://github.com/leantime/leantime/stargazers) | Open-source work management system tailored for lean product delivery, task tracking, and client collaboration. | GPL-2.0 |
+| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social)](https://github.com/invoiceninja/invoiceninja/stargazers) | Self-hosted invoicing, time tracking, expense management, and client portal platform for service businesses. | AAL |
+| **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** | [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social)](https://github.com/ever-co/ever-gauzy/stargazers) | Full-stack TypeScript business management, time tracking, and agency operations platform with HR & accounting modules. | AGPL-3.0 |
+| **[Dolibarr](https://github.com/Dolibarr/dolibarr)** | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social)](https://github.com/Dolibarr/dolibarr/stargazers) | Modular ERP/CRM suite providing milestone-based project management, member management, timesheets, and invoicing. | GPL-3.0 |
+| **[GLPI](https://github.com/glpi-project/glpi)** | [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social)](https://github.com/glpi-project/glpi/stargazers) | Enterprise IT asset management (ITAM) and service desk solution with SLA management, project tracking, and ticketing. | GPL-3.0 |
+| **[Zammad](https://github.com/zammad/zammad)** | [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social)](https://github.com/zammad/zammad/stargazers) | Modern web-based open-source support and ticket system with time tracking and channel integrations for IT service desks. | AGPL-3.0 |
+| **[Kimai](https://github.com/kimai/kimai)** | [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social)](https://github.com/kimai/kimai/stargazers) | Open-source time-tracking environment supporting multi-rate budget tracking, customer invoicing, and custom reporting. | MIT |
+| **[ITFlow](https://github.com/itflow-org/itflow)** | [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social)](https://github.com/itflow-org/itflow/stargazers) | Lightweight MSP-focused PSA solution combining client documentation, ticketing, quote generation, and accounting. | GPL-3.0 |
+| **[SolidInvoice](https://github.com/solidinvoice/solidinvoice)** | [![GitHub stars](https://img.shields.io/github/stars/solidinvoice/solidinvoice?style=social)](https://github.com/solidinvoice/solidinvoice/stargazers) | Simple open-source billing application designed for freelancers and small agencies with REST API support. | MIT |
+| **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** | [![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social)](https://github.com/ledgersmb/LedgerSMB/stargazers) | Open-source double-entry accounting and ERP suite providing project accounting, job costing, and timecards. | GPL-2.0 |
+| **[MyCompany](https://github.com/lsfusion-solutions/mycompany)** | [![GitHub stars](https://img.shields.io/github/stars/lsfusion-solutions/mycompany?style=social)](https://github.com/lsfusion-solutions/mycompany/stargazers) | Self-hosted ERP/CRM built on lsFusion platform featuring interactive task boards and supervisor timesheet approvals. | Open-Source |
+| **[Alga PSA](https://github.com/Nine-Minds/alga-psa)** | [![GitHub stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social)](https://github.com/Nine-Minds/alga-psa/stargazers) | Modern open-source MSP platform built on Next.js 15 & TypeScript featuring ticketing, RMM workflows, and automated time capture. | AGPL-3.0 |
+| **[MovaLab](https://github.com/itigges22/MovaLab)** | [![GitHub stars](https://img.shields.io/github/stars/itigges22/MovaLab?style=social)](https://github.com/itigges22/MovaLab/stargazers) | Modern services platform built on Next.js & Supabase featuring secure client portals, Gantt charts, and Row Level Security. | MIT |
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
+## 🛠️ Key Features of Modern PSA Software
 
+Modern **Professional Services Automation** platforms bridge the gap between sales, resource planning, project management, and financial accounting. Essential capabilities include:
 
-## Table of Contents
+1. **⏱️ Time & Expense Management**: Mobile & automated session tracking, multi-currency expenses, and approval hierarchies.
+2. **👥 Resource Utilization & Capacity Planning**: Visual Gantt & Kanban capacity views, skills matrix matching, and over-allocation alerts.
+3. **💰 Project Accounting & Revenue Recognition**: Fixed-fee, time & materials (T&M), retainer management, and deferred revenue calculations.
+4. **🎟️ Service Desk & Ticketing**: SLA tracking, client portals, automated interval tracking, and incident escalation.
+5. **📈 Business Intelligence & Profitability Reporting**: Real-time margin metrics, real-time burn rate charts, and utilization dashboards.
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+---
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+## 🤝 How to Contribute
 
-- [How to Contribute](#how-to-contribute)
+Contributions are welcome and appreciated! Follow these steps to submit additions or updates:
 
-- [Disclaimer](#disclaimer)
+1. Fork the repository.
+2. Add/edit entries in `README.md` following the tabular layout.
+3. Provide precise pricing details, free trial limits, and official source links.
+4. Submit a Pull Request with a short explanation of your changes.
 
+Check out [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more details.
 
+---
 
-## SaaS/Hosted Platforms
+## ⚠️ Disclaimer
 
+- This list is community-curated and provided for informational purposes only.
+- Information regarding pricing, valuations, and free trials is accurate as of **October 2026** and subject to change by vendor updates.
+- Deploying self-hosted open-source software requires operational oversight (backups, security patches, compliance with GDPR/CCPA).
 
+---
 
-- **[Microsoft Dynamics 365 Project Operations](https://dynamics.microsoft.com/en-us/project-operations/)**  
+## 💖 Support & Sponsorship
 
-  Microsoft's PSA solution connecting project sales, resourcing, delivery, and finance. **Deep integration with Microsoft 365, Power Platform, and Dynamics 365** — best for Microsoft-centric professional services organizations.
+If you find this repository helpful, please consider supporting the project:
 
+- ⭐ **Star this repository** to help others discover it!
+- 🔀 **Fork it** and contribute new tools or updates.
+- 📢 **Share it** with fellow consultants, MSP engineers, and agency owners!
+- ☕ **Buy me a coffee**: Support open-source curation on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
 
+---
 
-- **[FinancialForce PSA](https://www.financialforce.com/)**  
+## ⭐ Star History
 
-  PSA built natively on Salesforce, connecting sales, delivery, and finance in one platform. **The leading PSA for Salesforce customers** — real-time visibility into project profitability and resource utilization.
-
-
-
-- **[Kantata (Mavenlink)](https://www.kantata.com/)**  
-
-  **The most complete PSA for mid-market professional services** — project management, resource planning, time tracking, and financials in one platform. Used by agencies, consultancies, and IT services firms.
-
-
-
-- **[NetSuite OpenAir](https://www.netsuite.com/portal/products/openair.shtml)**  
-
-  Oracle NetSuite's PSA module with project accounting, resource management, and billing. **Best for organizations already using NetSuite ERP** .
-
-
-
-- **[BigTime](https://www.bigtime.net/)**  
-
-  PSA with time tracking, billing, and project management for professional services. **Best for small to mid-sized firms** needing integrated time-to-invoice workflows.
-
-
-
-- **[Planview](https://www.planview.com/)**  
-
-  Enterprise portfolio and resource management platform covering PSA capabilities. **Best for large organizations** needing portfolio-level visibility.
-
-
-
-- **[Scoro](https://www.scoro.com/)**  
-
-  All-in-one business management for professional services — projects, billing, CRM, and time tracking. **Best for agencies and consultancies** wanting simplicity.
-
-
-
-- **[Accelo](https://www.accelo.com/)**  
-
-  Service operations automation platform unifying project management, CRM, time tracking, retainers, and billing . **Best for professional services businesses** wanting client-centric workflows.
-
-
-
-- **[Workfront](https://www.workfront.com/)**  
-
-  Adobe's enterprise work management platform with project portfolio management, resource planning, and proofing. **Best for large enterprises** with complex workflows.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Alga PSA](https://github.com/Nine-Minds/alga-psa)**  
-
-  **Modern open-source PSA for Managed Service Providers**, AGPL-3.0 licensed with **997+ GitHub stars** . Built on **Next.js + TypeScript** stack — matters if you plan to customize . Features **ticketing, documentation, invoicing, project management, time tracking, scheduling, asset management, and an Automation Hub with TypeScript-based workflows** . **Automatic interval tracking** captures ticket viewing sessions with IndexedDB storage . **International tax support** (composite taxes, thresholds, reverse charge) and **flexible billing cycles** (weekly to quarterly with proration) . Community Edition free; Enterprise Edition paid support. **The best open-source PSA for MSP workflows** — modern architecture and ambitious automation .
-
-
-
-- **[Project-Open](https://github.com/project-open/Project-Open)**  
-
-  **Modular open-source ERP/PSA for project-driven service businesses**, GPL-2.0 licensed . Covers **project management, financial management, HR, CRM, and ITSM (ITIL V3)** . **Professional Service Automation module** ties time tracking to customer invoicing and revenue recognition . **Tight finance integration** — purchase orders, quotes, client invoices, and provider invoices with one click . Community Edition free; Professional at €12/employee/month; Enterprise at €24 . **Trade-off**: setup and configuration can be complex . **Best for translation firms, consultancies, and IT service providers** needing full PSA/ERP depth.
-
-
-
-- **[MovaLab](https://github.com/itigges22/MovaLab)**  
-
-  **Modern open-source professional services management platform**, open-source . Built on **Next.js 15, TypeScript, and Supabase (PostgreSQL + Row Level Security)** . Features **Kanban boards, Gantt charts, table views, workflow views, and analytics dashboards** with performance metrics and resource allocation . **Client portal** with project visibility, built-in approvals, feedback collection, and secure isolation (RLS enforced) . **Security-first**: RLS on every table, ~40 permissions, rate limiting, Zod validation, audit logging . Docker-based local setup with `npm run setup` . **Best for services teams wanting modern UX and strong security**.
-
-
-
-- **[allocPSA](https://sourceforge.net/projects/allocpsa/)**  
-
-  **Veteran open-source PSA suite**, open-source . Integrates **Project Management, CRM, Time Sheets, Billing, Resources, Reporting, Tasks, Invoicing, Calendars & Reminders** into a cross-platform web application . **Designated for consultants, IT services firms, engineering firms, architects, and marketing agencies** . **Trade-off**: over 1 year since last commit — verify maintenance status . **Best for understanding PSA foundations** or legacy deployments.
-
-
-
-- **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)**  
-
-  **Open-source double-entry accounting and ERP for small/medium businesses**, GPL-2.0 licensed . Features **project accounting, time tracking, invoicing based on orders/shipments/time cards, quotations, and full separation of duties** . **Per-customer language settings** for translated invoices . **Best for services businesses wanting PSA + accounting in one platform**.
-
-
-
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-
-  **Open-source ERP/CRM with project management module**, GPL-3.0 licensed . Project management includes **opportunities, event organization, timesheets, and task tracking** . **Part of a broader suite** covering invoicing, CRM, HR, and inventory . **Best for small businesses** wanting PSA features within an ERP.
-
-
-
-- **[MyCompany](https://github.com/lsfusion-solutions/mycompany)**  
-
-  **Free, self-hosted ERP/CRM for small businesses**, open-source . Includes **Projects module with task boards, time tracking, and supervisor timesheets** . **All modules share one database** — no synchronization overhead . **Best for small consultancies** wanting integrated ERP+PSA.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **ITFlow** — Open-source PSA for MSPs combining client documentation, ticketing, billing, and client portal, GPL-3.0 licensed . **MSP-native with managed hosting option** .
-
-- **ERPNext** — Open-source ERP that can function as PSA with project management, resource allocation, time tracking, and billing . **Not MSP-native** — requires customization .
-
-- **Odoo** — Full ERP with project-to-invoice automation, CRM, helpdesk, and contracts . Community Edition free (LGPL) . **Heavy for pure PSA needs** .
-
-- **Ever Gauzy** — Open-source business management platform with project management, time tracking, and ERP capabilities .
-
-
-
-**Frameworks for building custom PSA solutions**: Combine **Alga PSA** for modern MSP-focused PSA with TypeScript automation . Use **Project-Open** for full PSA/ERP depth with finance integration . Deploy **MovaLab** for modern Next.js/Supabase stack with client portal and strong security . Choose **LedgerSMB** for PSA + accounting in one platform . For MSPs specifically, **ITFlow** provides a lighter alternative to Alga . Note that true enterprise PSA with Salesforce-native integration (FinancialForce) or deep Microsoft ecosystem integration (Dynamics 365 Project Operations) remains primarily commercial territory; open-source stacks provide strong time tracking, project management, and billing foundations that require configuration for complete PSA workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- PSA platforms handle sensitive client, financial, and project data. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA).
-
-- **Open-source PSA requires operational responsibility** — hosting, security patching, backups, and upgrades are your responsibility. Commercial PSA gets you operational in days; open-source setup takes weeks .
-
-- **Feature depth varies significantly** — Alga PSA and Project-Open are production-ready for their target markets; allocPSA has not had a commit in over a year . Evaluate maintenance status before deployment.
-
-- **MSP-native vs. general professional services** — Alga PSA and ITFlow are built for MSP workflows (ticketing, RMM integration, multi-tenant clients); ERPNext and Odoo are general ERPs that require customization for MSP needs .
-
-- The open-source ecosystem provides strong time tracking, project management, and billing foundations, but **Salesforce-native integration, Microsoft ecosystem depth, and vendor-supported SLAs** remain primarily commercial offerings.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Professional-Services-Automation-PSA&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Professional-Services-Automation-PSA&type=date&legend=top-left)
